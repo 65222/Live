@@ -626,7 +626,7 @@ http://120.6.7.173:4022/udp/239.253.92.116:6029
 #EXTINF:-1 group-title="中国联通-河北-组播",党教
 http://120.6.7.173:4022/udp/239.253.92.125:6024
 #EXTINF:-1 group-title="中国联通-山东-组播",CCTV1
-http://annaxi.lw-home.com:11111/udp/239.253.254.77:8000
+rtp://239.253.254.77:8000
 #EXTINF:-1 group-title="中国联通-山东-组播",CCTV2
 http://annaxi.lw-home.com:11111/udp/239.253.254.232:8000
 #EXTINF:-1 group-title="中国联通-山东-组播",CCTV3
